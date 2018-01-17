@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/search_collector"
+            android:title="Search Collector" />
+        <item
+            android:id="@+id/collect_from_collector"
+            android:title="Collect From Collector" />
+        <item
+            android:id="@+id/collectors"
+            android:title="Collectors List" />
+        <item
+            android:id="@+id/collector_transaction"
+            android:title="Collector's Transaction" />
+        <item
+            android:id="@+id/sign_out"
+            android:title="Sign Out" />
+    </group>
+
+</menu>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/destination_trending"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="0dp"
+            android:weightSum="7"
+            >
+            <!--<TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/slno_collector_transaction"
+                android:text="135"
+                android:padding="10dp"
+                android:textColor="#000"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                />-->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/collector_id_collector_transaction"
+                android:text="256PQ"
+                android:padding="10dp"
+                android:textColor="#000"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/consumer_id_id_collector_transaction"
+                android:text="BA1658"
+                android:padding="10dp"
+                android:textColor="#000"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/date_time_collector_transaction"
+                android:text="26-12-2152 08.30PM"
+                android:padding="10dp"
+                android:textColor="#000"
+                android:layout_weight="3"
+                android:textSize="16dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/receipt_number_collector_transaction"
+                android:text="894615"
+                android:padding="10dp"
+                android:textColor="#000"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                />
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>
