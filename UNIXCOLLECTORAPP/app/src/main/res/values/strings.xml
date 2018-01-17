@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UNIX COLLECTOR APP</string>
+    <string name="server_address">http://unixservices.in/api/collector</string>
+    <!--<string name="server_address">http://192.168.43.8:3000/unix/api/collector</string>-->
+</resources>
