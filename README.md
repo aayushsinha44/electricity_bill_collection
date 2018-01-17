@@ -13,4 +13,8 @@ The workflow goes as:
 5. Finally each supervisor has to submit all the collected amount the admin.
 
 To solve this problem there are two android apps:
-1. Collector app: A collector can login with his username and password into the app. There he enters the unique consumer id of the consumer where he will get all the information about the consumer including his basic informationa and amount he has to pay. The collector update the amount collected from the consumer in the app. Now this update will be reported to the web admin and the supervisor alloted to the collector.
+1. Collector app: A collector can login with his username and password in the app. There he enters the unique consumer id of the consumer where he will get all the information about the consumer including his basic informationa and amount he has to pay. The collector update the amount collected from the consumer in the app. Now this update will be reported to the web admin and the supervisor alloted to the collector.
+2. Supervisor app: Here supervisor can login in the app with his username and password. Now supervisor can see all logs about all the collecters assigned to him. Supervisor then collects money from collector and send money to admin and update the app with the reference number of transaction and a photo as proof.
+3. Web Admin: Here the admin logs in the web and updates all the information, add new information and can see and control all transcation.
+
+
