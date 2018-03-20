@@ -21,14 +21,7 @@ To solve this problem there are two android apps:
 # Screen Shots
 
 # Web admin
-
-![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_0.PNG)  |  ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_1.PNG)
-:-------------------------:|:-------------------------:
-![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_2.PNG)  |  ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_3.PNG)
-:-------------------------:|:-------------------------:
-![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_7.PNG)  |  ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_8.PNG)
-:-------------------------:|:-------------------------:
-![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_9.PNG)  |  ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_10.PNG)
-:-------------------------:|:-------------------------:
-![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_11.PNG)  |  ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_9.PNG)
+| ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_0.PNG)  | ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_1.PNG)  | ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_2.PNG)  |
+| ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_3.PNG)  | ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_7.PNG)  | ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_8.PNG)  |
+| ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_9.PNG)  | ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_10.PNG)  | ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_11.PNG)  |
 
