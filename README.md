@@ -18,3 +18,10 @@ To solve this problem there are two android apps:
 3. Web Admin: Here the admin logs in the web and updates all the information, add new information and can see and control all transcation.
 
 
+# Screen Shots
+
+# Web admin
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_0.PNG)  |  ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_0.PNG)
