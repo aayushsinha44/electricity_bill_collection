@@ -35,3 +35,14 @@ To solve this problem there are two android apps:
 ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_11.PNG)
 ![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/web_app/screen_shot_12.PNG)
 
+# Supervisor App
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156268.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156109.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156117.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156128.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156132.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156211.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156236.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156241.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156252.png)
+![](https://github.com/aayushsinha44/electricity_bill_collection/blob/master/screenshot/supervisor_app/Screenshot_1522156259.png)
